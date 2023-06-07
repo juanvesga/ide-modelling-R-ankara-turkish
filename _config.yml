@@ -1,17 +1,17 @@
 # Site settings
-course_name: "Short course on modelling infectious disease dynamics in R" 
-course_description: "Training course on modelling infectious disease dynamics for public health specialists. The course covers the basics of R, principles of mathematical epidemiology applied to infectious diseases, introduction to modelling compartmental models and other analytical methods in R for assesing outbreaks and public health interventions"
+course_name: "R'de bulaşıcı hastalık dinamiklerini modellemeye ilişkin kısa kurs" 
+course_description: "Halk sağlığı uzmanları için bulaşıcı hastalık dinamiklerinin modellenmesine yönelik eğitim kursu. Kurs, R'nin temellerini, bulaşıcı hastalıklara uygulanan matematiksel epidemiyoloji ilkelerini, bölümlü modelleri modellemeye girişi ve salgınları ve halk sağlığı müdahalelerini değerlendirmek için R'deki diğer analitik yöntemleri kapsar"
 course_semester: "June 2023, Ankara"
 
 baseurl: "/ide-modelling-R-ankara-turkish" # the subpath of your site, e.g. /blog/
 url: "http://juanvesga.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Created by Juan Vesga"
+schoolname: "Tarafından yaratıldı Juan Vesga"
 schoolurl: "https://www.lshtm.ac.uk/aboutus/people/vesga.juan"
 twitter_username: "@juanf_vesga"
 
 address: |
-    Created by Juan F Vesga for The Health Security Project (HSP) in Türkiye, Ministry of Health (GDPH-MoH). Funded by the European Union and being implemented in the country by the World Health Organization (WHO).  
+   Juan F Vesga tarafından Türkiye Sağlık Bakanlığı (GDPH-MoH) Sağlık Güvenliği Projesi (HSP) için oluşturulmuştur. Avrupa Birliği tarafından finanse edilmekte ve Dünya Sağlık Örgütü (WHO) tarafından ülkede uygulanmaktadır.  
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
