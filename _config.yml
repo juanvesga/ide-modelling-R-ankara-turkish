@@ -1,0 +1,57 @@
+# Site settings
+course_name: "Short course on modelling infectious disease dynamics in R" 
+course_description: "Training course on modelling infectious disease dynamics for public health specialists. The course covers the basics of R, principles of mathematical epidemiology applied to infectious diseases, introduction to modelling compartmental models and other analytical methods in R for assesing outbreaks and public health interventions"
+course_semester: "June 2023, Ankara"
+
+baseurl: "/ide-modelling-R-ankara-turkish" # the subpath of your site, e.g. /blog/
+url: "http://juanvesga.github.io/" # the base hostname & protocol for your site
+
+schoolname: "Created by Juan Vesga"
+schoolurl: "https://www.lshtm.ac.uk/aboutus/people/vesga.juan"
+twitter_username: "@juanf_vesga"
+
+address: |
+    Created by Juan F Vesga for The Health Security Project (HSP) in Türkiye, Ministry of Health (GDPH-MoH). Funded by the European Union and being implemented in the country by the World Health Organization (WHO).  
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Language plug in
+gems:
+- jekyll-language-plugin
+
+language_data: data.lang.%%
+language_includes_dir: _i18n
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
