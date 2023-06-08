@@ -2,7 +2,8 @@
 layout: home
 ---
 
-Bu siteyi İngilizce görmek için buraya tıklayın [![](_images/flag_uk.png)](https://juanvesga.github.io/ide-modelling-R-ankara/)
+Bu siteyi İngilizce görmek için buraya tıklayın [![](<img src="_images/flag_uk.png"  width="20">)](https://juanvesga.github.io/ide-modelling-R-ankara/)
+
 
 
 ## Ders değerlendirmesi
