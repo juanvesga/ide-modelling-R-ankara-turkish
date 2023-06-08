@@ -4,7 +4,7 @@ items:
   icon_class: fa fa-home fa-lg
 
 - url: /agenda/
-  name: Agenda
+  name: Programlamak
   icon_class: fas fa-calendar-alt
 
 # - url: /schedule/
@@ -12,11 +12,11 @@ items:
 #   icon_class: fas fa-calendar-alt
 
 - url: /lectures/
-  name: Lectures
+  name: Dersler
   icon_class: fas fa-book-reader
 
 - url: /assignments/
-  name: Practical
+  name: Pratik
   icon_class: fas fa-user-graduate
 
 # - url: /project/

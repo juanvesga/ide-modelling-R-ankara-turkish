@@ -3,8 +3,12 @@ course_name: "R'de bulaşıcı hastalık dinamiklerini modellemeye ilişkin kıs
 course_description: "Halk sağlığı uzmanları için bulaşıcı hastalık dinamiklerinin modellenmesine yönelik eğitim kursu. Kurs, R'nin temellerini, bulaşıcı hastalıklara uygulanan matematiksel epidemiyoloji ilkelerini, bölümlü modelleri modellemeye girişi ve salgınları ve halk sağlığı müdahalelerini değerlendirmek için R'deki diğer analitik yöntemleri kapsar"
 course_semester: "June 2023, Ankara"
 
+langurl: "https://juanvesga.github.io/ide-modelling-R-ankara/"
+
 baseurl: "/ide-modelling-R-ankara-turkish" # the subpath of your site, e.g. /blog/
 url: "http://juanvesga.github.io/" # the base hostname & protocol for your site
+
+
 
 schoolname: "Tarafından yaratıldı Juan Vesga"
 schoolurl: "https://www.lshtm.ac.uk/aboutus/people/vesga.juan"
