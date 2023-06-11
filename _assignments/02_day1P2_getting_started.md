@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2018-09-26T4:00:00+4:30
-title: "Day 1 Practical 2: Getting staRted" 
+title: "1. Gün Pratik 2: BaşlaRken" 
 pdf: /static_files/assignments/02_day1P2_getting_started.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf

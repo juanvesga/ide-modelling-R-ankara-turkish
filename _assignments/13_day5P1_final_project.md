@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2018-09-26T4:00:00+4:30
-title: 'Day 5 Final project'
+title: '5. Gün Final projesi'
 pdf: /static_files/assignments/13_day5P1_final_project.pdf
 attachment: /static_files/assignments/data_files.zip
 #solutions: /static_files/assignments/asg_solutions.pdf

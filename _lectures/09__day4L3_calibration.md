@@ -1,16 +1,16 @@
 ---
 type: lecture
 date: 2023-05-16T8:00:00+4:30
-title: "Day 4 Lecture 3: Assessing model uncertainty and calibration"
-tldr: "Explore uncertainty and methods to assess it in modelling"
+title: "4. Gün 3. Ders: Model belirsizliğini ve kalibrasyonu değerlendirme"
+tldr: "Belirsizliği ve onu modellemede değerlendirmek için yöntemleri keşfedin"
 thumbnail: /static_files/presentations/day4_L3.jpg
 links: 
     - url: /static_files/presentations/day4_L3.pptx
-      name: slides
+      name: slaytları
     # - url: /static_files/presentations/code.zip
     #   name: codes
     # - url: https://google.com
     #   name: slides
 ---
-**Suggested Readings:**
+**önerilen okumalar:**
 - [Keeling & Rohani Modelling ID book](http://www.modelinginfectiousdiseases.org/)

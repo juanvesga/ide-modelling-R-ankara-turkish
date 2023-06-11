@@ -1,16 +1,16 @@
 ---
 type: lecture
 date: 2023-05-16T8:00:00+4:30
-title: "Day 1 Lecture 1: Introduction to R session 1"
-tldr: "Familiarise with the R language and the R Studio integrated development environment (IDE). Questions such as “why R?” will be discussed, in comparison to other programming languages used for epidemiological data analysis"
+title: "1. Gün Ders 1: R oturumu 1'e giriş"
+tldr: "R dilini ve R Studio tümleşik geliştirme ortamını (IDE) öğrenin. “neden R?” epidemiyolojik veri analizi için kullanılan diğer programlama dilleriyle karşılaştırmalı olarak tartışılacaktır."
 thumbnail: /static_files/presentations/day1_L1.jpg
 links: 
     - url: /static_files/presentations/day1_L1.pptx
-      name: slides
+      name: slaytları
     # - url: /static_files/presentations/code.zip
     #   name: codes
     # - url: https://google.com
     #   name: slides
 ---
-**Suggested Readings:**
+**önerilen okumalar:**
 - [R software Handbook](https://bookdown.org/aschmi11/RESMHandbook/)

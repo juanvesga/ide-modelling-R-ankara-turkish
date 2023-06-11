@@ -1,6 +1,6 @@
 ---
 layout: lectures
-title: Lectures
+title: Dersler
 permalink: /lectures/
 ---
-You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
+Dersleri buradan indirebilirsiniz. Dersleri ilgili derslerden önce yüklemeye çalışacağız.

@@ -1,6 +1,6 @@
 ---
 layout: assignments
-title: Practical
+title: Pratik
 permalink: /assignments/
 ---
-You can download the assignments here. Also check out each assignment page for any additional info.
+Ödevleri buradan indirebilirsiniz. Ayrıca herhangi bir ek bilgi için her ödev sayfasına göz atın.

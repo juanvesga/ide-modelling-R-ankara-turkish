@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2018-09-26T4:00:00+4:30
-title: 'Day 2  Practical 2: Comperting hazards'
+title: '2. Gün Pratik 2: Rekabet tehlikeleri'
 pdf: /static_files/assignments/05_day2P2_comp_hazards.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
