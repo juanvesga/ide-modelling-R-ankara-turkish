@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2018-09-26T4:00:00+4:30
-title: 'Solution to Day 4 Practical 1: Stochastic models'
+title: '4. Günün Çözümü 1. Uygulama: Stokastik modeller'
 pdf: /static_files/assignments/11_day4P1_stochastic_models_sol.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf

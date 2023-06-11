@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2018-09-26T4:00:00+4:30
-title: 'Solution to Day 2  Practical 1: Introduction to compartmental models'
+title: 'Çözüm 2. Gün Uygulama 1: Bölmeli modellere giriş'
 pdf: /static_files/assignments/03_day2P1_compartmental_sol.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf

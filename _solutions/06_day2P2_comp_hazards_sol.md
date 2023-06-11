@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2018-09-26T4:00:00+4:30
-title: 'Solution to Day 2  Practical 2: Comperting hazards'
+title: '2. Günün Çözümü 2. Uygulama: Bilgisayarla ilgili tehlikeler'
 pdf: /static_files/assignments/05_day2P2_comp_hazards_sol.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf

@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2018-09-26T4:00:00+4:30
-title: 'Solution to Day 3 Practical 1: The SIR model'
+title: '3. Güne Çözüm 1. Uygulama: SIR modeli'
 pdf: /static_files/assignments/07_day3P1_SIR_sol.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
