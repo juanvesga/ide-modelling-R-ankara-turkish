@@ -4,7 +4,7 @@ date: 2018-09-26T4:00:00+4:30
 title: "1. Gün Pratik 1: R'ye Giriş"
 pdf: /static_files/assignments/01_day1P1_intro_to_r.pdf
 #attachment: /static_files/assignments/asg.zip
-#solutions: /static_files/assignments/asg_solutions.pdf
+solutions: /static_files/r_scripts/day_1_practical.R
 due_event: 
     type: due
     date: 2018-11-13T23:59:00+3:30
