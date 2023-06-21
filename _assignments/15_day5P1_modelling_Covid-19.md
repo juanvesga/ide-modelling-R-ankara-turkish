@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2018-09-26T4:00:00+4:30
-title: title: '5. Gün Final projesi: COVID-19'
+title: '5. Gün Final projesi: COVID-19'
 pdf: /static_files/assignments/15_final_project_covid19.pdf
 attachment: /static_files/assignments/daily_cases_countryX.csv
 #solutions: /static_files/assignments/asg_solutions.pdf
