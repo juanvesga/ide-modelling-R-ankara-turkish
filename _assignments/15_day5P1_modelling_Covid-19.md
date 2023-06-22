@@ -26,7 +26,8 @@ Bu **son projede** kursta bu zamana kadar öğrenilen kavramların çoğunu uygu
  
 Stokastik etkilerin, salgının sona erme veya daha da artma ihtimalini değerlendirmede önemli bir rolü olabileceği anlaşılmaktadır.
  
-**Görev 1:** Önceki bir SIR stokastik modelini şablon olarak kullanmak başlangıç projeksiyonu oluşturmak ve uygulamak için gerekli kodu yeniden düzenlemeye yardımcı olun.
+**Görev 1:** Önceki bir SIR stokastik modelini şablon olarak kullanmak başlangıç projeksiyonu oluşturmak ve uygulamak için gerekli kodu yeniden düzenlemeye yardımcı olun.  
+
 **Not:** Aşağıdaki kod önceden uyarlanmıştır ancak kodu çalıştırmak için **??** sembolüyle işaretlenmiş bazı boşlukların doldurulması gerekir.
 
  
@@ -122,7 +123,8 @@ legend("topright", lwd = 1, col = "grey", legend = c("I"), bty = "n")
  
 
  
-Parametre değerleri için başlangıç tahminlerini kullanarak ilk projeksiyonu oluşturdunuz, modelinizi ilk 30 gün için size verilen epidemik eğri verilerini yansıtacak şekilde ayarlamanız isteniyor.
+Parametre değerleri için başlangıç tahminlerini kullanarak ilk projeksiyonu oluşturdunuz, modelinizi ilk 30 gün için size verilen epidemik eğri verilerini yansıtacak şekilde ayarlamanız isteniyor.  
+
 **Görev 3:** Bu alıştırma için günlük vaka verileri verilmiştir. “daily_cases_countryX.csv” adlı dosyaya bakın ve bunu R projenizin "data" klasörüne koyun.
 
 **Görev 4:** Verilere göre model projeksiyonunuzun grafiğini çizin. Verilere göre en son çalıştırılan modelinizin grafiğini çizmek için aşağıdaki kodu kullanın.
