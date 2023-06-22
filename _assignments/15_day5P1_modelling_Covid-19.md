@@ -143,7 +143,7 @@ points(case_data$day,case_data$cases,type = "p",col="black", pch=17)
 legend("topright", lwd = c(1,NA), col = c("Purple","black"), legend = c("Mean cases","Data"), lty=c(1,NA),pch=c(NA,17),bty = "n")
 {% endhighlight %}
  
-![plot of chunk unnamed-chunk-6](../_images/unnamed-chunk-6-1.png)
+![plot of chunk unnamed-chunk-6](../_images/unnamed-chunk-6-1cov.png)
  
 Elinizde ön model simülasyonu ve ilk 30 güne ait bazı gerçek veriler var. Şimdi modelinizle verileri çoğaltmayı denemelisiniz.
 
@@ -269,7 +269,7 @@ plot(x,yy,type="l")
  
 {% endhighlight %}
 
-![plot of chunk unnamed-chunk-9](../_images/unnamed-chunk-9-1.png)
+![plot of chunk unnamed-chunk-9](../_images/unnamed-chunk-9-1cov.png)
  
 Grafiğe dikkatlice bakın ve ne çizildiğini anlayın. Bunu kısıtlama (<1) öncesi gevşeme pencereleri (1'e eşit) olarak düşünün.
 Şimdi bu kapanmayı SEIR modelinizde kullanın. Aşağıdaki koda bakın, bunu inceleyin ve kopyalayıp yapıştırın
@@ -310,7 +310,7 @@ mtext("z", side=4, line=3)
 
 {% endhighlight %}
 
-![plot of chunk unnamed-chunk-10](../_images/unnamed-chunk-10-1.png)
+![plot of chunk unnamed-chunk-10](../_images/unnamed-chunk-10-1cov.png)
  
 **Görev 8:** Bu kodu kullanarak kendi müdahale planınızı tasarlayın. Aşağıdaki ipuçlarını kullanın:
 
